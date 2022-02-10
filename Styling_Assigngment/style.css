@@ -1,0 +1,25 @@
+h1 {
+    background-color: black;
+    color:rgb(66, 228, 250);
+    font-weight: bold;
+    font-family: monospace;
+}
+span{
+    color: white
+}
+h2{
+    background-color: rebeccapurple;
+    color: white;
+    font-family: monospace;
+    font-weight: lighter;
+    text-align: center;
+    font-style: italic;
+
+}
+h3{
+    background-color: rgb(129, 172, 228);
+    font-family:monospace;
+    font-weight: lighter;
+    text-align: right;
+    text-decoration: underline;
+}
